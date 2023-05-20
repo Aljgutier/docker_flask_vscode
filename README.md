@@ -1,6 +1,6 @@
 # Dockerize Flask and Gunicorn with VSCode <!-- omit from toc -->
 
-These examples follows the followig tutorial
+These examples follow the followig tutorial
 
 Analytics Vidya
 https://www.analyticsvidhya.com/blog/2022/08/building-a-simple-flask-app-using-docker-vs-code/
@@ -26,7 +26,7 @@ https://github.com/microsoft/python-sample-vscode-flask-tutorial
 
 # Additional References
 
-Docker VScode ... docket with fastapi
+Docker VScode ... Docker with fastapi
 https://code.visualstudio.com/docs/containers/quickstart-python
 
 Getting Started with Docker
